@@ -61,58 +61,23 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 
 ## **📝 프로젝트**
 
-### 블로그 프로젝트<br />
-![image](https://user-images.githubusercontent.com/118657689/236449219-6d9e23a2-8e55-4d5e-bc44-4e18856fd3de.png)
-
-- **분류:** 개인 프로젝트<br />
-- **기간:** 2023.02.09 ~ 2023.02.22 <br />
-- **사용 기술:** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Ajax](https://img.shields.io/badge/Ajax-0769AD?style=flat-square&logo=ajax&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
-![JSTL](https://img.shields.io/badge/JSTL-005571?style=flat-square)
-![H2 Database](https://img.shields.io/badge/H2_Database-E23F48?style=flat-square&logo=h2&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-FFFFFF?style=flat-square&logo=mybatis&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)<br>
-
-- **주요 기능:** <br>
-회원가입, 로그인, <br>
-글 목록 보기, 글 쓰기, 수정, 삭제,<br>
-댓글 쓰기, 삭제, <br>
-프로필 사진 변경, 좋아요 기능, <br>
-관리자 기능, 이메일 전송<br />
-- **프로젝트 자세히 보기:** [블로그 프로젝트](blog.md)<br />
-
-<br />
-
-### 구인구직 프로젝트<br />
-![image](https://user-images.githubusercontent.com/118657689/234797375-8e1ca1f4-aac7-4365-9fd1-49b2c115aaea.png)
+###  공간대여 앱 프로젝트 (Flutter) ( 진행중 )<br /> 
 
 - **분류:** 미니 팀 프로젝트(4인)<br />
-- **기간:** 2023.02.22 ~ 2023.03.07 <br />
-- **사용 기술:** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Ajax](https://img.shields.io/badge/Ajax-0769AD?style=flat-square&logo=ajax&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
-![JSTL](https://img.shields.io/badge/JSTL-005571?style=flat-square)
-![H2 Database](https://img.shields.io/badge/H2_Database-E23F48?style=flat-square&logo=h2&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-FFFFFF?style=flat-square&logo=mybatis&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+- **기간:** 2023.04.12 ~ 2023.05.11 <br />
+- **사용 기술:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2_Database-E23F48?style=flat-square&logo=h2&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)<br>
 
-
-
-- **주요 기능:** <br>
- 공고 등록, 수정, 삭제,<br>
- 이력서 등록, 수정, 삭제, <br>
- 마이홈에서 제안 및 지원 처리,<br>
- 구직자와 기업의 기술 매칭순으로 추천, <br>
- 키워드 검색기능, 스크랩, 알림 기능<br>
-- **프로젝트 자세히 보기:** [구인구직 프로젝트](connect.md)<br />
+- **주요 기능:** 
+- **프로젝트 자세히 보기:** 5월 11일 추가 예정 <br />
 
 <br />
 
@@ -140,23 +105,58 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 
 <br />
 
-###  공간대여 앱 프로젝트 (Flutter) ( 진행중 )<br /> 
+### 구인구직 프로젝트<br />
+![image](https://user-images.githubusercontent.com/118657689/234797375-8e1ca1f4-aac7-4365-9fd1-49b2c115aaea.png)
 
 - **분류:** 미니 팀 프로젝트(4인)<br />
-- **기간:** 2023.04.12 ~ 2023.05.11 <br />
-- **사용 기술:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
+- **기간:** 2023.02.22 ~ 2023.03.07 <br />
+- **사용 기술:** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Ajax](https://img.shields.io/badge/Ajax-0769AD?style=flat-square&logo=ajax&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
+![JSTL](https://img.shields.io/badge/JSTL-005571?style=flat-square)
 ![H2 Database](https://img.shields.io/badge/H2_Database-E23F48?style=flat-square&logo=h2&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![EC2](https://img.shields.io/badge/Amazon_EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-FFFFFF?style=flat-square&logo=mybatis&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)<br>
 
-- **주요 기능:** 
-- **프로젝트 자세히 보기:** 5월 11일 추가 예정 <br />
+- **주요 기능:** <br>
+ 공고 등록, 수정, 삭제,<br>
+ 이력서 등록, 수정, 삭제, <br>
+ 마이홈에서 제안 및 지원 처리,<br>
+ 구직자와 기업의 기술 매칭순으로 추천, <br>
+ 키워드 검색기능, 스크랩, 알림 기능<br>
+- **프로젝트 자세히 보기:** [구인구직 프로젝트](connect.md)<br />
+
+<br />
+
+### 블로그 프로젝트<br />
+![image](https://user-images.githubusercontent.com/118657689/236449219-6d9e23a2-8e55-4d5e-bc44-4e18856fd3de.png)
+
+- **분류:** 개인 프로젝트<br />
+- **기간:** 2023.02.09 ~ 2023.02.22 <br />
+- **사용 기술:** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Ajax](https://img.shields.io/badge/Ajax-0769AD?style=flat-square&logo=ajax&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
+![JSTL](https://img.shields.io/badge/JSTL-005571?style=flat-square)
+![H2 Database](https://img.shields.io/badge/H2_Database-E23F48?style=flat-square&logo=h2&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-FFFFFF?style=flat-square&logo=mybatis&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)<br>
+
+- **주요 기능:** <br>
+회원가입, 로그인, <br>
+글 목록 보기, 글 쓰기, 수정, 삭제,<br>
+댓글 쓰기, 삭제, <br>
+프로필 사진 변경, 좋아요 기능, <br>
+관리자 기능, 이메일 전송<br />
+- **프로젝트 자세히 보기:** [블로그 프로젝트](blog.md)<br />
+
+
 
 <!-- ## 🌱 Interests
 - **Simultaneous Localization and Mapping (SLAM)**
@@ -202,5 +202,5 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 
 ## 📫 Contacts
 - E-mail: <a href="mailto:piw940317@gmail.com"> piw940317@gmail.com </a>
-
+- [Tel: +82 010 2349 9099](tel:+8201023499099)
 
