@@ -90,4 +90,6 @@
 <br>
 
 > ## 기술 블로그
-- https://velog.io/@merci/series/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A0%9C%EC%9E%91-V1
+
+
+- <a href="https://velog.io/@merci/series/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A0%9C%EC%9E%91-V1"> 블로그 링크 </a>
