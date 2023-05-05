@@ -1,10 +1,14 @@
 
 
 
-<h2 align="center"> 안녕하세요 신입개발자 박인우입니다 ! 👋 </h1>
+## 안녕하세요 신입개발자 박인우입니다 ! 👋 
 
-목표를 반드시 달성하고 개발 프로세스를 하나씩 알아가는 개발자입니다.
+## 끝을 보고 마는 개발자
 
+여러 프로젝트 진행 경험을 바탕으로 개발 프로세스를 이해하려 노력하고 새로운 것을 배우는 것에 흥미를 가지는 개발자 입니다.
+
+
+<a name="link"></a>
 ## **🔗 링크**
 
 **블로그 링크:** https://velog.io/@merci 
@@ -22,34 +26,43 @@
 
 ## **📝 프로젝트**
 
-> **프로젝트 1:** 블로그 프로젝트<br />
-**분류:** 개인 프로젝트<br />
+### 블로그 프로젝트<br />
+
+>**분류:** 개인 프로젝트<br />
 **제작 기간:** 2021.02 ~ 2021.02<br />
-**주요 기능:** 회원가입, 로그인, 글 목록 보기, 글 쓰기, 수정, 삭제, 댓글 쓰기, 삭제, 프로필 사진 변경, 좋아요 기능<br />
+**주요 기능:** 회원가입, 로그인, 글 목록 보기, 글 쓰기, 수정, 삭제, 댓글 쓰기, 삭제, 프로필 사진 변경, 좋아요 기능, 관리자 기능, 이메일 전송<br />
 **사용 기술:** React, Styled-components, Firebase Hosting<br />
-**프로젝트 자세히 보기:** [https://github.com/clean17/first-blog3](https://github.com/clean17/first-blog3#readme)<br />
-
-
+**프로젝트 자세히 보기:** [블로그 프로젝트](blog.md)<br />
 
 <br />
 
-> **프로젝트 2:** 구인구직 프로젝트<br />
-**분류:** 미니 팀 프로젝트(4인)<br />
+### 구인구직 프로젝트<br />
+
+>**분류:** 미니 팀 프로젝트(4인)<br />
 **제작 기간:** 2021.02 ~ 2021.03<br />
-**주요 기능:** 회원가입, 로그인, 글 목록 보기, 글 쓰기, 수정, 삭제, 댓글 쓰기, 삭제, 프로필 사진 변경, 좋아요 기능<br />
+**주요 기능:** 회원가입, 로그인, 글 목록 보기, 글 쓰기, 수정, 삭제, 댓글 쓰기, 삭제, 프로필 사진 변경, 좋아요 기능, <br />
 **사용 기술:** React, Styled-components, Firebase Hosting<br />
-**프로젝트 자세히 보기:** [https://github.com/clean17/first-blog3](https://github.com/clean17/first-blog3#readme)<br />
+**프로젝트 자세히 보기:** [구인구직 프로젝트](connect.md)<br />
 
 <br />
 
-> **프로젝트 3:** Rest Api 프로젝트<br />
-**분류:** 미니 팀 프로젝트(4인)<br />
+###  Rest Api 프로젝트<br /> 
+
+>**분류:** 미니 팀 프로젝트(4인)<br />
 **제작 기간:** 2021.03 ~ 2021.03<br />
 **주요 기능:** 회원가입, 로그인, 글 목록 보기, 글 쓰기, 수정, 삭제, 댓글 쓰기, 삭제, 프로필 사진 변경, 좋아요 기능<br />
 **사용 기술:** React, Styled-components, Firebase Hosting<br />
-**프로젝트 자세히 보기:** [https://github.com/clean17/first-blog3](https://github.com/clean17/first-blog3#readme)<br />
+**프로젝트 자세히 보기:** [Rest Api 프로젝트](rest.md)<br />
 
+<br />
 
+<!-- ###  Flutter 프로젝트<br /> 
+
+>**분류:** 미니 팀 프로젝트(4인)<br />
+**제작 기간:** 진행중<br />
+**주요 기능:** 회원가입, 로그인, 글 목록 보기, 글 쓰기, 수정, 삭제, 댓글 쓰기, 삭제, 프로필 사진 변경, 좋아요 기능<br />
+**사용 기술:** React, Styled-components, Firebase Hosting<br />
+**프로젝트 자세히 보기:** [https://github.com/clean17/first-blog3](https://github.com/clean17/first-blog3#readme)<br /> -->
 
 <!-- ## 🌱 Interests
 - **Simultaneous Localization and Mapping (SLAM)**
@@ -79,8 +92,6 @@
 <br />
 
 
-## 자기 소개 ??
-
 
 <br />
 
@@ -97,3 +108,4 @@
 
 
 
+## 프로젝트 상세 
