@@ -188,14 +188,11 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 
 ## 최근 GitHub 활동 📊
 
-<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=clean17&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=clean17&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clean17&layout=compact&theme=radical)
- -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clean17&layout=compact)
+ 
 
-![clean17's GitHub stats](https://github-readme-stats.vercel.app/api?username=clean17&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clean17&exclude_repo=changh95.github.io,changh95.github.io-legacyblog_source,changh95,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
