@@ -62,6 +62,7 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 ## **📝 프로젝트**
 
 ### 블로그 프로젝트<br />
+![image](https://user-images.githubusercontent.com/118657689/236449219-6d9e23a2-8e55-4d5e-bc44-4e18856fd3de.png)
 
 - **분류:** 개인 프로젝트<br />
 - **기간:** 2023.02.09 ~ 2023.02.22 <br />
@@ -87,9 +88,10 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 <br />
 
 ### 구인구직 프로젝트<br />
+![image](https://user-images.githubusercontent.com/118657689/234797375-8e1ca1f4-aac7-4365-9fd1-49b2c115aaea.png)
 
 - **분류:** 미니 팀 프로젝트(4인)<br />
-- **기간:** 2023.02.22 ~ 2023.03.09 <br />
+- **기간:** 2023.02.22 ~ 2023.03.07 <br />
 - **사용 기술:** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Ajax](https://img.shields.io/badge/Ajax-0769AD?style=flat-square&logo=ajax&logoColor=white)
@@ -115,9 +117,10 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 <br />
 
 ###  Rest Api 프로젝트<br /> 
+![image](https://user-images.githubusercontent.com/118657689/234799992-f20dea08-d827-4c57-ad99-e36270c6edef.png)
 
 - **분류:** 미니 팀 프로젝트(4인)<br />
-- **기간:** 2023.03.20 ~ 2023.03.28 <br />
+- **기간:** 2023.03.14 ~ 2023.03.27 <br />
 - **사용 기술:** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![H2 Database](https://img.shields.io/badge/H2_Database-E23F48?style=flat-square&logo=h2&logoColor=white)
