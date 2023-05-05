@@ -11,9 +11,9 @@
 <a name="link"></a>
 ## **🔗 링크**
 
-**블로그 링크:** https://velog.io/@merci 
+**블로그 링크:** <a href="https://velog.io/@merci">https://velog.io/@merci</a>
 <br />
-**깃허브 링크:** https://github.com/clean17
+**깃허브 링크:** <a href="https://velog.io/@merci">https://github.com/clean17</a>
 
 <br />
 
