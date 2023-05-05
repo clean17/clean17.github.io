@@ -7,7 +7,7 @@
 > ## 발표자료 ( PDF )
 ![image](https://user-images.githubusercontent.com/118657689/234800218-e3c1444b-ef3e-46bb-877a-dabebe900d91.png)
 
-- [6조_미니프로젝트2_PPT.pdf](https://github.com/clean17/mini-project2/files/11340918/6._.2_PPT.pdf)
+- <a href="https://github.com/clean17/mini-project2/files/11340918/6._.2_PPT.pdf">[6조_미니프로젝트2_PPT.pdf]</a>
 
 <br>
 
