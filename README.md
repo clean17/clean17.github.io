@@ -1,7 +1,4 @@
-
-
-
-## 안녕하세요 신입개발자 박인우입니다 ! 👋 
+<p align="center"> # 안녕하세요 신입개발자 박인우입니다 ! 👋 </p>
 
 ## 끝을 보고 마는 개발자
 
@@ -13,7 +10,7 @@
 
 **블로그 링크:** <a href="https://velog.io/@merci">https://velog.io/@merci</a>
 <br />
-**깃허브 링크:** <a href="https://velog.io/@merci">https://github.com/clean17</a>
+**깃허브 링크:** <a href="https://github.com/clean17">https://github.com/clean17</a>
 
 <br />
 
