@@ -1,7 +1,7 @@
 # Village 프로젝트 ( 공간 대여 )
 
 
-<img src="https://github.com/clean17/Village-Front-Project/assets/118657689/a2dd9193-0d37-4caa-bf03-c1114a6c49eb" alt="profile" width="300" height="300">
+![village-sample](https://github.com/clean17/clean17.github.io/assets/118657689/2aef4ac3-8c93-4a97-997a-30290b98f5ce)
 
 > ## 프로젝트 소개
 - 주변에서 춤 연습을 하거나 회의를 하거나 공부를 하려는 등의 공간을 알아보고 있나요 ? <br>
