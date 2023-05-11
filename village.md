@@ -10,14 +10,9 @@
 
 <br>
 
-
-
-
-
-
 > ## 시연영상 ( Youtube )
 
-<a href="https://www.youtube.com/watch?v=X2QB7HTBATU&ab_channel=%EB%A9%94%ED%83%80%EC%BD%94%EB%94%A9">![image](https://github.com/clean17/clean17.github.io/assets/118657689/a9792c30-41a2-4e02-888e-61081074e0e1)</a>
+https://www.youtube.com/watch?v=X2QB7HTBATU&ab_channel=%EB%A9%94%ED%83%80%EC%BD%94%EB%94%A9
 
 <br>
 
