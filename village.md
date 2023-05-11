@@ -4,6 +4,7 @@
 ![village-sample](https://github.com/clean17/clean17.github.io/assets/118657689/2aef4ac3-8c93-4a97-997a-30290b98f5ce)
 
 > ## 프로젝트 소개
+
 - 주변에서 춤 연습을 하거나 회의를 하거나 공부를 하려는 등의 공간을 알아보고 있나요 ? <br>
 - 여러분에게 필요한 여러 공간을 여기서 빌려보세요 !<br>
 - 호스트는 공간을 등록하고 사용자는 예약, 결제를 통해 공간을 빌리는 서비스 입니다.
@@ -19,6 +20,7 @@ https://www.youtube.com/watch?v=X2QB7HTBATU&ab_channel=%EB%A9%94%ED%83%80%EC%BD%
 
 
 > ## 발표자료 ( PDF )
+
 ![image](https://github.com/clean17/Village-Front-Project/assets/118657689/ac1cebd2-3086-429b-b48f-f2eaf2e5ad87)
 
 [4조 village.pdf](https://github.com/clean17/Village-Front-Project/files/11440847/4.village.pdf)
@@ -28,11 +30,13 @@ https://www.youtube.com/watch?v=X2QB7HTBATU&ab_channel=%EB%A9%94%ED%83%80%EC%BD%
 
 
 > ## 프로젝트 기간
+
 - 2023-04-10 ~ 2023.05.10
 
 <br>
 
 > ## 팀원 소개
+
 ### Front-End
 |                                                 박인우(팀장)                                                  |                                                 이인화                                                  |
 | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | 
@@ -51,6 +55,7 @@ https://www.youtube.com/watch?v=X2QB7HTBATU&ab_channel=%EB%A9%94%ED%83%80%EC%BD%
 <br>
 
 > ## 기술 스택
+
 ### 개발 툴<br>
 ![image](https://github.com/clean17/Village-Front-Project/assets/118657689/2a81747e-306b-43e3-9fa1-9adebb8b91d6)
 ![image](https://github.com/clean17/Village-Front-Project/assets/118657689/c0ebe32a-0db1-4b6e-8e3a-7744ad702753)
@@ -88,6 +93,7 @@ https://www.youtube.com/watch?v=X2QB7HTBATU&ab_channel=%EB%A9%94%ED%83%80%EC%BD%
 <br>
 
 > ## 기능정리
+
 - 등록된 공간 목록 조회
 - 키워드로 특정한 공간 조회
 - 카테고리 검색 조회
@@ -104,6 +110,7 @@ https://www.youtube.com/watch?v=X2QB7HTBATU&ab_channel=%EB%A9%94%ED%83%80%EC%BD%
 <br>
 
 > ## 스프링 부트 의존성 주입
+
 ```
 	asciidoctorExt 'org.springframework.restdocs:spring-restdocs-asciidoctor'
 	testImplementation 'org.springframework.restdocs:spring-restdocs-mockmvc'
@@ -141,6 +148,7 @@ https://www.youtube.com/watch?v=X2QB7HTBATU&ab_channel=%EB%A9%94%ED%83%80%EC%BD%
 <br>
 
 > ## 구현 화면
+
 ![Honeycam 2023-05-10 20-10-03](https://github.com/clean17/Village-Front-Project/assets/118657689/06427e23-3639-49d5-bde3-1f258f608225)
 ![Honeycam 2023-05-10 20-10-34](https://github.com/clean17/Village-Front-Project/assets/118657689/bb4efc0f-4f8f-4f29-a8cd-bfa5a434e82e)
 ![Honeycam 2023-05-10 20-11-08](https://github.com/clean17/Village-Front-Project/assets/118657689/76fa9d22-011e-46f9-93dd-5d1774780257)
@@ -171,6 +179,7 @@ https://www.youtube.com/watch?v=X2QB7HTBATU&ab_channel=%EB%A9%94%ED%83%80%EC%BD%
 <br>
 
 > ## 기술 블로그
+
 김정욱 <br>
 https://snapdragon-maple-d1e.notion.site/34fc09fac7684501a4a29bd6da6bb8b5<br>
 
@@ -186,6 +195,7 @@ https://geode-krill-9ab.notion.site/Sliver-0fb83d2a0b7c4a069c73b3a2724a199a<br>
 <br>
 
 > ## 담당 기능
+
 박인우(프론트)
 
 - Riverpod 상태 관리
@@ -231,6 +241,7 @@ https://geode-krill-9ab.notion.site/Sliver-0fb83d2a0b7c4a069c73b3a2724a199a<br>
 
 
 > ## 보완점
+
 - 리뷰나 스크랩기능은 어렵지 않은데 시간이 부족해 끝내지 못한 점이 아쉽다.<br>
 - 비밀번호 찾기 기능을 하고 싶었지만 못해서 아쉽다.<br>
 - rebase 머지를 처음 하면서 여러 어려움을 겪었지만 다음에는 경험을 바탕으로 잘 처리할 것이다.<br>
@@ -238,6 +249,7 @@ https://geode-krill-9ab.notion.site/Sliver-0fb83d2a0b7c4a069c73b3a2724a199a<br>
 <br>
 
 > ## 후기
+
 박인우
 - 프로젝트를 진행하면서 초기 계획과 많이 달라져 힘든 부분도 있었지만 조금 더 개발이라는 업무와 가까워진것 같다.
 - 팀원들을 이끌면서 팀장이라는 역할에 대해 다시 한번 생각하는 계기가 되었다.
