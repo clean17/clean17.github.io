@@ -95,20 +95,8 @@ testImplementation group: 'org.mybatis.spring.boot', name: 'mybatis-spring-boot-
   - Dto 생성 및 Rest Api 문서 작성
   - EC2 클라우드 배포
 
-- 이인화 
-  - Dto 생성 및 Rest Api 문서 작성
-
-- 김유현 
-  - Dto 생성 및 Rest Api 문서 작성 
-
-- 강은희 
-  - 고객센터 페이지 CRUD기능 구현
-
-
 
 <br>
-
-
 
 
 > ## 보완점
@@ -119,26 +107,4 @@ testImplementation group: 'org.mybatis.spring.boot', name: 'mybatis-spring-boot-
 
 <br>
 
-> ## 후기
-
-- 박인우
-
-  스프링의 새로운 기술들을 사용해봐서 좋았고, REST API를 직접 구현하면서 왜 REST아키텍처를 이용하는지 조금 알게 되어서 좋았다.
-
-
-- 김유현
-
-
-  2차 프로젝트 까지 하면서, 아직도 개념이 잡히지 않거나 이해가 어려웠던 부분을 팀원들과의 조언과 공부하는 시간을 통해 조금 더 성장하는 시간이었고 부족한 부분을 더 채워 나가고 싶다.
-
-- 이인화
-
-
-  1,2차 프로젝트를 하면서 부족함을 많이 느꼈지만, 많이 배웠고 이것을 토대로 더 열심히 할 것이다.
-
-
-- 강은희
-
-
-  지난 시간에 못한 부분을 채울 수 있는 시간 같아서 다행이라고 생각했습니다. 부족하기도 했지만, 많이 배운 시간이라고 생각합니다.
 
