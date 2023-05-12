@@ -13,7 +13,7 @@
 
 > ## 시연영상 ( Youtube )
 
-https://www.youtube.com/watch?v=X2QB7HTBATU&ab_channel=%EB%A9%94%ED%83%80%EC%BD%94%EB%94%A9
+<a href="https://www.youtube.com/watch?v=X2QB7HTBATU&ab_channel=%EB%A9%94%ED%83%80%EC%BD%94%EB%94%A9"> 유튜브 시연영상 링크 </a>
 
 <br>
 
@@ -23,7 +23,8 @@ https://www.youtube.com/watch?v=X2QB7HTBATU&ab_channel=%EB%A9%94%ED%83%80%EC%BD%
 
 ![image](https://github.com/clean17/Village-Front-Project/assets/118657689/ac1cebd2-3086-429b-b48f-f2eaf2e5ad87)
 
-[4조 village.pdf](https://github.com/clean17/Village-Front-Project/files/11440847/4.village.pdf)
+[4조 village.pdf](https://github.com/clean17/clean17.github.io/files/11459060/4.village.pdf)
+
 
 
 <br>
@@ -38,10 +39,9 @@ https://www.youtube.com/watch?v=X2QB7HTBATU&ab_channel=%EB%A9%94%ED%83%80%EC%BD%
 > ## 팀원 소개
 
 ### Front-End
-|                                                 박인우(팀장)                                                  |                                                 이인화                                                  |
+|                                                 박인우(팀장)                                             |                                                 이인화                                                  |
 | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | 
-| <img src="https://github.com/clean17/Village-Front-Project/assets/118657689/c0efe9a4-72b3-4d2b-89b8-ff8a7d9b7598" alt="profile" width="100" height="100"> | [<img src="https://avatars.githubusercontent.com/u/122412968?v=4" alt="profile" width="100" height="100">](https://avatars.githubusercontent.com/u/122351923?v=4) | 
-|                                   [@clean17](https://github.com/clean17)                                   |                                 [@01LeeInhwa](https://github.com/01LeeInhwa)                                 |
+| <img src="https://github.com/clean17/Village-Front-Project/assets/118657689/c0efe9a4-72b3-4d2b-89b8-ff8a7d9b7598" alt="profile" width="100" height="100"> | [<img src="https://avatars.githubusercontent.com/u/122412968?v=4" alt="profile" width="100" height="100">](https://avatars.githubusercontent.com/u/122351923?v=4) |                           [@clean17](https://github.com/clean17)                                   |                                 [@01LeeInhwa](https://github.com/01LeeInhwa)                            |
 
 <br>
 
@@ -180,62 +180,32 @@ https://www.youtube.com/watch?v=X2QB7HTBATU&ab_channel=%EB%A9%94%ED%83%80%EC%BD%
 
 > ## 기술 블로그
 
-김정욱 <br>
-https://snapdragon-maple-d1e.notion.site/34fc09fac7684501a4a29bd6da6bb8b5<br>
 
-박인우 <br>
-https://velog.io/@merci/series/Flutter<br>
 
-김호현 <br>
-https://oil-hail-ded.notion.site/f503f6f26b7c4a589ee379b27444f078<br>
+- <a href="https://velog.io/@merci/series/Flutter"> 블로그 링크 </a> <br>
 
-이인화 <br>
-https://geode-krill-9ab.notion.site/Sliver-0fb83d2a0b7c4a069c73b3a2724a199a<br>
+
 
 <br>
 
 > ## 담당 기능
 
-박인우(프론트)
+박인우
 
-- Riverpod 상태 관리
-- 스크립트 EC2, RDS 배포
-- 지도, 주소 API 로 지도 보기 및 주소 검색
-- Sentry로 에러 관리
-- Bootpay로 결제 데이터 관리 및 적용
+- Flutter ( 폴더 구조 ) 및 SpringBoot 초기 세팅 ( 시큐리티 )
+- Riverpod 상태 관리 및 데이터 모델링
 - 내주변 지도 페이지
 - 카테고리, 검색페이지
 - 상세 페이지
 - 공간 등록 페이지
 - 결제 페이지
+- 스크립트 EC2, RDS 배포
+- 지도, 주소 API 로 지도 보기 및 주소 검색
+- Sentry로 에러 관리
+- Bootpay로 결제 데이터 관리 및 적용
+- API 문서 만들어서 백엔드에 전달
+- jpa 로 데이터 저장 및 관계 설정
 
-이인화(프론트)
-- Riverpod 상태 관리
-- 스플래쉬 페이지
-- 메인 페이지
-- 로그인, 회원가입 페이지
-- 마이페이지
-- 호스트 신청 페이지
-- 예약내역 페이지
-- 공지사항
-
-
-김호현(백)
-- 호스트 신청
-- 공간 등록, 조회, 수정
-- 예약 신청
-- 알림 (FCM)
-- 결제 (Bootpay) 
-- 이미지 저장 (S3)
-- 관리자 페이지
-- RestDoc
-
-김정욱(백)
-- 로그인, 회원가입
-- 시큐리티, JWT 토큰
-- 메인 공간 조회
-- 공간 검색(키워드, 카테고리)
-- 공간 필터링(정렬)
 
 <br>
 
@@ -255,17 +225,3 @@ https://geode-krill-9ab.notion.site/Sliver-0fb83d2a0b7c4a069c73b3a2724a199a<br>
 - 팀원들을 이끌면서 팀장이라는 역할에 대해 다시 한번 생각하는 계기가 되었다.
 
 
-이인화 
-- 파이널 프로젝트를 하며 다양한 기능을 구현해 볼 수 있어서 재밌었습니다
-- 리버팟에 익숙하지 않아 데이터를 바인딩하는데 어려움을 겪어 아쉬웠지만 팀원들과 함께 프로젝트를 만들어 좋은 경험이었습니다.
-
-
-
-김정욱
-- 배려심과 책임감이 강한 팀원들과 작업해서 저는 너무 행복하게 작업했습니다. 
-- 6개월동안 저도 그렇고 모두들 쉴틈없이 작업했는데 다들 원하는 곳에 취업하고 좋은 결과 얻었으면 좋겠습니다
-
-
-김호현
-- 프론트 와 백엔드로 나누어 프로젝트를 처음 해봤기에 소통을 하는 부분이 부족하다는 것을 느꼈습니다.
-- JPA를 처음 사용하면서 처음에는 복잡하고 힘들다고 생각을 했지만 잘 이해를 하면 오히려 편하게 사용 할 수 있다고 생각이 들었고 무엇보다도 Restdoc을 사용 하기 위해 test코드를 작성을 하며 좋은 결과를 이루었다.
