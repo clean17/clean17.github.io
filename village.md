@@ -39,6 +39,7 @@
 > ## 팀원 소개
 
 ### Front-End
+
 |                                                 박인우(팀장)                                             |                                                 이인화                                                  |
 | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | 
 | <img src="https://github.com/clean17/Village-Front-Project/assets/118657689/c0efe9a4-72b3-4d2b-89b8-ff8a7d9b7598" alt="profile" width="100" height="100"> | [<img src="https://avatars.githubusercontent.com/u/122412968?v=4" alt="profile" width="100" height="100">](https://avatars.githubusercontent.com/u/122351923?v=4) |     
