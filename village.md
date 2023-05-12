@@ -41,7 +41,8 @@
 ### Front-End
 |                                                 박인우(팀장)                                             |                                                 이인화                                                  |
 | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | 
-| <img src="https://github.com/clean17/Village-Front-Project/assets/118657689/c0efe9a4-72b3-4d2b-89b8-ff8a7d9b7598" alt="profile" width="100" height="100"> | [<img src="https://avatars.githubusercontent.com/u/122412968?v=4" alt="profile" width="100" height="100">](https://avatars.githubusercontent.com/u/122351923?v=4) |                           [@clean17](https://github.com/clean17)                                   |                                 [@01LeeInhwa](https://github.com/01LeeInhwa)                            |
+| <img src="https://github.com/clean17/Village-Front-Project/assets/118657689/c0efe9a4-72b3-4d2b-89b8-ff8a7d9b7598" alt="profile" width="100" height="100"> | [<img src="https://avatars.githubusercontent.com/u/122412968?v=4" alt="profile" width="100" height="100">](https://avatars.githubusercontent.com/u/122351923?v=4) |     
+|                                [@clean17](https://github.com/clean17)                                   |                                 [@01LeeInhwa](https://github.com/01LeeInhwa)                            |
 
 <br>
 
@@ -147,6 +148,27 @@
 
 <br>
 
+> ## 담당 기능
+
+박인우
+
+- Flutter ( 폴더 구조 ) 및 SpringBoot 초기 세팅 ( 시큐리티 )
+- Riverpod 상태 관리 및 데이터 모델링
+- 내주변 지도 페이지
+- 카테고리, 검색페이지
+- 상세 페이지
+- 공간 등록 페이지
+- 결제 페이지
+- 스크립트 EC2, RDS 배포
+- 지도, 주소 API 로 지도 보기 및 주소 검색
+- Sentry로 에러 관리
+- Bootpay로 결제 데이터 관리 및 적용
+- API 문서 만들어서 백엔드에 전달
+- jpa 로 데이터 저장 및 관계 설정
+
+
+<br>
+
 > ## 구현 화면
 
 ![Honeycam 2023-05-10 20-10-03](https://github.com/clean17/Village-Front-Project/assets/118657689/06427e23-3639-49d5-bde3-1f258f608225)
@@ -181,30 +203,7 @@
 > ## 기술 블로그
 
 
-
 - <a href="https://velog.io/@merci/series/Flutter"> 블로그 링크 </a> <br>
-
-
-
-<br>
-
-> ## 담당 기능
-
-박인우
-
-- Flutter ( 폴더 구조 ) 및 SpringBoot 초기 세팅 ( 시큐리티 )
-- Riverpod 상태 관리 및 데이터 모델링
-- 내주변 지도 페이지
-- 카테고리, 검색페이지
-- 상세 페이지
-- 공간 등록 페이지
-- 결제 페이지
-- 스크립트 EC2, RDS 배포
-- 지도, 주소 API 로 지도 보기 및 주소 검색
-- Sentry로 에러 관리
-- Bootpay로 결제 데이터 관리 및 적용
-- API 문서 만들어서 백엔드에 전달
-- jpa 로 데이터 저장 및 관계 설정
 
 
 <br>
