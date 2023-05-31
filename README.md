@@ -44,9 +44,6 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
   <br>
   
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <br>
-
    <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
    <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white">
   <br>
