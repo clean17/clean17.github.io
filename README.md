@@ -1,15 +1,13 @@
-# 안녕하세요 ! 👋 <br> 신입개발자 박인우입니다 
+# 안녕하세요 ! 👋 <br> 주니어개발자 박인우입니다 
 <br>
 
 ![Designer (10)](https://github.com/clean17/clean17.github.io/assets/118657689/ede722e9-7c98-49dc-9f08-08856c721606)
 
+## 끝까지 달리는 개발자
 
-## 끝을 보고 마는 개발자
-
-여러 프로젝트 진행 경험을 바탕으로 개발 프로세스를 이해하려 노력하는 개발자입니다.<br>
 새로운 것을 배우는 것에 흥미를 가지는 개발자 입니다.<br>
 DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<br>
-프론트 개발 경험으로 프론트와 백엔드의 마인드를 이해하는 개발자입니다.<br>
+프론트 개발 경험으로 프론트와 백엔드의 소통을 이해하는 개발자입니다.<br>
 <br>
 
 <a name="link"></a>
@@ -23,46 +21,39 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 
 ## **🛠 기술 스택**
 
+<br />
+
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> 
-   <br>
-  
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-   <img src="https://img.shields.io/badge/Ajax-0769AD?style=for-the-badge&logo=ajax&logoColor=white">
-  <br>
+  <br><br>
   
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-   <img src="https://img.shields.io/badge/MyBatis-FFFFFF?style=for-the-badge&logo=mybatis&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA">
-  <br>
-    
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
-   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white">
+  <br><br>
+
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA">
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <br><br>
+      
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" > 
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" >
   <br>
 </div>
 
-
-
-
 <br />
 
-## **📝 프로젝트**
+## **📝 프로젝트** 
+
 
 ###  공간대여 앱 프로젝트 (Flutter) <br /> 
 
 ![village-sample](https://github.com/clean17/clean17.github.io/assets/118657689/2aef4ac3-8c93-4a97-997a-30290b98f5ce)
 
 
-
-- **분류:** 미니 팀 프로젝트(4인)<br />
+- **분류:** 미니 팀 프로젝트(4인, 팀장)<br />
 - **기간:** 2023.04.10 ~ 2023.05.10 <br />
 - **사용 기술:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -76,25 +67,40 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 ![EC2](https://img.shields.io/badge/Amazon_EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)<br>
 
-- **주요 기능:** <br>
- 등록된 공간 목록 조회<br>
- 키워드와 카테고리로 특정한 공간 조회<br>
- 내 주변 지도에서 등록된 공간 조회<br>
- 로그인된 유저로 공간 예약<br>
- 호스트가 승인하면 공간 결제(Bootpay)<br>
- 유저의 예약 및 결제 내역 확인<br>
- 일반 유저의 호스트 신청<br>
- 호스트의 공간 등록 기능<br> 
- 예약이나 결제 시 호스트에게 FCM 알림<br> 
- 관리자가 호스트 신청, 공간, 유저, 예약, 결제 관리<br>
+- **담당 기능:** <br> 
+  - Flutter ( 폴더 구조 ) 및 SpringBoot 초기 세팅 ( 시큐리티, JWT인증필터, 폴더구조 )
+  - 테이블 설계 주도 및 로직 초안 작성
+  - Sentry로 에러로그 관리
+  - jpa 로 데이터 저장 및 관계 설정
+  - 서버 개발이 늦어서 API 문서틀을 만들어서 백엔드 팀원에게 전달
+  - Dio 라이브러리로 데이터 요청 및 모델링 (Async/Await)
+  - Riverpod 라이브러리로 상태관리 및 모든 페이지 데이터 모델링
+  - Bootpay 라이브러리로 결제 데이터 관리 및 적용
+  - 구글 지도 / 카카오 주소 API 로 주변 지도 보기 및 주소 검색
+  - 스크립트로 EC2 자동 배포, RDS 적용
+  - 내 주변 지도 페이지 (플러터)
+  - 카테고리, 검색페이지 (플러터)
+  - 공간 상세 페이지 (플러터)
+  - 공간 등록 페이지 (플러터)
+  - 결제 완료 페이지 (플러터)
+  
+  
+  
+ 
+  
+
 - **프로젝트 자세히 보기:** [Village 프로젝트](village.md)<br />
+
+<br />
+
+---
 
 <br />
 
 ###  Rest Api 프로젝트<br /> 
 ![image](https://user-images.githubusercontent.com/118657689/234799992-f20dea08-d827-4c57-ad99-e36270c6edef.png)
 
-- **분류:** 미니 팀 프로젝트(4인)<br />
+- **분류:** 미니 팀 프로젝트(4인, 팀장)<br />
 - **기간:** 2023.03.14 ~ 2023.03.27 <br />
 - **사용 기술:** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -105,20 +111,28 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)<br>
 
-- **주요 기능:** <br>
-  AOP 로 중복코드 제거, <br>
-  JWT 로 인증 및 권한 처리, <br>
-  사진 전송 시 Base64 인코딩 + 디코딩 + UUID 저장, <br>
-  Rest Api 문서 작성 및 DTO 생성, <br>
-  EC2 jar 배포 <br>
+- **담당 기능:** <br>
+  - JWT 발급, JWT인증필터 만들어서 추가 <br>
+  - 필터에서 principal을 만들어서 세션에 추가한 뒤 <br>
+    세션에서 principal가져와 권한처리하는 @LoginUser( AOP )만들어서 중복코드 제거 <br>
+  - @Valid 로 유효성 검사 + 익셉션 핸들러 추가 ( alert )  <br>
+  - 사진( Base64 ) 받아서 디코딩 + UUID 추가해서 저장 <br>
+  - Rest Api 문서 작성 및 DTO 생성 <br>
+  - MyBatis의 Result Mapper로 ORM 적용<br>
+  - EC2에 jar 배포 + RDS 연결<br>
+
 - **프로젝트 자세히 보기:** [Rest Api 프로젝트](rest.md)<br />
+
+<br />
+
+---
 
 <br />
 
 ### 구인구직 프로젝트<br />
 ![image](https://user-images.githubusercontent.com/118657689/234797375-8e1ca1f4-aac7-4365-9fd1-49b2c115aaea.png)
 
-- **분류:** 미니 팀 프로젝트(4인)<br />
+- **분류:** 미니 팀 프로젝트(4인, 팀장)<br />
 - **기간:** 2023.02.22 ~ 2023.03.07 <br />
 - **사용 기술:** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -132,13 +146,26 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)<br>
 
-- **주요 기능:** <br>
- 공고 등록, 수정, 삭제<br>
- 이력서 등록, 수정, 삭제 <br>
- 마이홈에서 제안 및 지원 처리<br>
- 구직자와 기업의 기술 매칭순으로 추천 <br>
- 키워드 검색기능, 스크랩, 알림 기능<br>
+- **담당 기능:( 뷰 포함 )** <br>
+  - 프로젝트 초기 세팅( 스프링부트, 의존성관리, 패키지분류, 인터셉터, 익셉션 핸들러 )<br>
+  - 테이블 설계 및 모델링, 정규화( 기술만 제 2정규화 )<br>
+  - 공고 목록 조회, 등록, 수정, 삭제, 스크랩<br>
+  - 공고 상세보기 페이지, 버튼 상태변화 <br>
+  - 공고, 이력서 상세보기에서 지원/제안 시 이력서/공고를 비동기로 가져와 선택<br>
+  - 공고, 이력서 임시저장 기능<br> 
+  - 마이홈, 기업홈 ( 이력서 페이지 제외 )<br>
+  - 받은 제안, 지원 현황 페이지에서 버튼으로 합격, 불합격, 수락, 거절 처리<br>
+  - 구직자와 기업의 기술과 관심 카테고리 매칭순으로 공고추천, 인재추천 <br>
+  - 공고 키워드 검색 + 채용페이지에서 여러 조건( 기술, 지역, 학력, 경력 )으로 중첩 검색 ( 자바스크립트 + 비동기 + 동적쿼리 )<br>
+  - 처리 결과 구직자에게 알림( SSE ) <br>
+  - Junit5 단위, 통합테스트<br>
+ 
+
 - **프로젝트 자세히 보기:** [구인구직 프로젝트](connect.md)<br />
+
+<br />
+
+---
 
 <br />
 
@@ -158,15 +185,24 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)<br>
 
-- **주요 기능:** <br>
-회원가입, 로그인, <br>
-글 목록 보기, 글 쓰기, 수정, 삭제,<br>
-댓글 쓰기, 삭제, <br>
-프로필 사진 변경, 좋아요 기능, <br>
-관리자 기능, 이메일 전송<br />
+- **담당 기능:** <br>
+  - 회원가입, 로그인 <br>
+  - 아이디, 비밀번호 중복확인<br>
+  - 글 목록 보기, 글 쓰기, 수정, 삭제<br>
+  - 등록한 첫번째 사진으로 블로그 썸네일 <br>
+  - AJAX 비동기로 댓글 쓰기, 삭제 <br>
+  - 프로필 사진 변경 <br>
+  - 좋아요 수 증가, 감소 <br>
+  - 관리자 페이지( 검색, 삭제, 이메일 전송) <br />
+  - Sha256 비밀번호 암호화<br>
+  - Junit5 단위테스트<br>
+  - 인터셉터로 인증처리<br>
+
 - **프로젝트 자세히 보기:** [블로그 프로젝트](blog.md)<br />
 
+<br />
 
+---
 
 <!-- ## 🌱 Interests
 - **Simultaneous Localization and Mapping (SLAM)**
@@ -190,10 +226,6 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 - Personal research blog (Korean): [**cv-learn blog**](https://www.cv-learn.com) -->
 
 
-
-
-
-
 <br />
 
 ## 최근 GitHub 활동 📊
@@ -202,7 +234,6 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clean17&layout=compact)
  
-
 
 <br />
 
