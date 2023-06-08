@@ -5,9 +5,10 @@
 
 ## 끝까지 달리는 개발자
 
-새로운 것을 배우는 것에 흥미를 가지는 개발자 입니다.<br>
-DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<br>
-프론트 개발 경험으로 프론트와 백엔드의 소통을 이해하는 개발자입니다.<br>
+- SpringBoot, MyBatis, Jpa를 통해 API서버를 만들었고 AWS에 배포한 경험이 있습니다.
+- 3번의 프로젝트에서 팀장 역할을 하며 DB를 설계하고 로직을 만드는 것에 관심이 생겼습니다.
+- 프론트 개발을 이해하고 싶어 Flutter 개발을 진행했는데 이 때 API문서의 중요성을 절실히 느꼈고 완성도 있는 문서를 만들어야겠다는 결심이 들었습니다.
+- 공부한 것을 모두 기억하는 것은 어렵기 때문에 블로그에 꾸준히 기록하고 있으며 저와 유사한 어려움을 가진 이들에게 도움이 되도록 공유하고 있습니다.
 <br>
 
 <a name="link"></a>
@@ -53,7 +54,7 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 ![village-sample](https://github.com/clean17/clean17.github.io/assets/118657689/2aef4ac3-8c93-4a97-997a-30290b98f5ce)
 
 
-- **분류:** 미니 팀 프로젝트(4인, 팀장)<br />
+- **분류:** 미니 팀 프로젝트(4인)<br />
 - **기간:** 2023.04.10 ~ 2023.05.10 <br />
 - **사용 기술:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -67,7 +68,7 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 ![EC2](https://img.shields.io/badge/Amazon_EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)<br>
 
-- **담당 기능:** <br> 
+- **담당 기능(팀장):** <br> 
   - Flutter ( 폴더 구조 ) 및 SpringBoot 초기 세팅 ( 시큐리티, JWT인증필터, 폴더구조 )
   - 테이블 설계 주도 및 로직 초안 작성
   - Sentry로 에러로그 관리
@@ -100,7 +101,7 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 ###  Rest Api 프로젝트<br /> 
 ![image](https://user-images.githubusercontent.com/118657689/234799992-f20dea08-d827-4c57-ad99-e36270c6edef.png)
 
-- **분류:** 미니 팀 프로젝트(4인, 팀장)<br />
+- **분류:** 미니 팀 프로젝트(3인)<br />
 - **기간:** 2023.03.14 ~ 2023.03.27 <br />
 - **사용 기술:** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -111,7 +112,7 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)<br>
 
-- **담당 기능:** <br>
+- **담당 기능(팀장):** <br>
   - JWT 발급, JWT인증필터 만들어서 추가 <br>
   - 필터에서 principal을 만들어서 세션에 추가한 뒤 <br>
     세션에서 principal가져와 권한처리하는 @LoginUser( AOP )만들어서 중복코드 제거 <br>
@@ -132,7 +133,7 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 ### 구인구직 프로젝트<br />
 ![image](https://user-images.githubusercontent.com/118657689/234797375-8e1ca1f4-aac7-4365-9fd1-49b2c115aaea.png)
 
-- **분류:** 미니 팀 프로젝트(4인, 팀장)<br />
+- **분류:** 미니 팀 프로젝트(3인)<br />
 - **기간:** 2023.02.22 ~ 2023.03.07 <br />
 - **사용 기술:** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -146,7 +147,7 @@ DB를 설계하고 로직 만드는것에 관심이 있는 개발자 입니다.<
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)<br>
 
-- **담당 기능:( 뷰 포함 )** <br>
+- **담당 기능(팀장):( 뷰 포함 )** <br>
   - 프로젝트 초기 세팅( 스프링부트, 의존성관리, 패키지분류, 인터셉터, 익셉션 핸들러 )<br>
   - 테이블 설계 및 모델링, 정규화( 기술만 제 2정규화 )<br>
   - 공고 목록 조회, 등록, 수정, 삭제, 스크랩<br>
