@@ -40,6 +40,7 @@
   <br><br>
       
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" > 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" >
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" >
   <br>
 </div>
@@ -48,6 +49,38 @@
 
 ## **📝 프로젝트** 
 
+### Todo 프로젝트 <br />
+
+![image](https://github.com/clean17/clean17.github.io/assets/118657689/751bbc1b-9765-4313-8e75-3b03ecd3fba5)
+
+- **분류:** 개인 프로젝트 <br />
+- **기간:** 2023.05.24 ~ 2023.06.18 <br />
+- **사용 기술:** 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)<br>
+
+- **구현 기능:** <br>
+  - 회원가입, 로그인, TODO CRUD
+  - 시큐리티 + JWT 인증/인가처리
+  - JUnit - Mock, 단위, 통합테스트
+  - clean build로 테스트 완료후 RestDocs 문서 생성
+  - 도커환경을 이용한 로컬 개발 및 배포
+  - Github Actions 와 DockerHub를 이용한 CI/CD 파이프라인 구축
+  - 실제 배포 완료
+
+- **프로젝트 자세히 보기:** <a href="https://github.com/clean17/docker-deploy#readme"> Todo + Docker  </a> <br />
+
+<br />
+
+---
+
+<br />
 
 ###  공간대여 앱 프로젝트 (Flutter) <br /> 
 
