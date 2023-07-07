@@ -74,7 +74,7 @@
   - Github Actions 와 DockerHub를 이용한 CI/CD 파이프라인 구축
   - 실제 배포 완료
 
-- **프로젝트 자세히 보기:** <a href="https://github.com/clean17/docker-deploy#readme"> Todo + Docker  </a> <br />
+- **프로젝트 자세히 보기:** [Docker 프로젝트](docker.md) <br />
 
 <br />
 
